@@ -2,7 +2,8 @@
   "name": "firstpro",
   "version": "0.0.1",
   "devDependencies": {
-    "babel-cli": "^6.0.0"
+    "babel-cli": "^6.0.0",
+    "babel-preset-env": "*"
   },
   "scripts": {
     "build": "babel src -d js"
